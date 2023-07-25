@@ -4,7 +4,7 @@ azure-storage-blob==12.9.0
 azure-storage-file-datalake==12.5.0
 azure-storage-file-share==12.6.0
 azure-storage-queue==12.1.6
-certifi==2021.10.8
+certifi==2023.7.22
 cffi==1.15.0
 charset-normalizer==2.0.9
 click==8.0.3
