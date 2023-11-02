@@ -43,5 +43,5 @@ six==1.16.0
 SQLAlchemy==1.4.31
 urllib3==1.26.7
 virtualenv==20.13.0
-Werkzeug==2.0.2
+Werkzeug==3.0.1
 yarg==0.1.9
