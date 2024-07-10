@@ -45,3 +45,4 @@ urllib3==1.26.7
 virtualenv==20.13.0
 Werkzeug==2.0.2
 yarg==0.1.9
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
